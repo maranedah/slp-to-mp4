@@ -1,0 +1,11 @@
+{
+    "melee_iso": "C:\\Users\\mauri\\Desktop\\Mauro\\ROMs\\Super Smash Bros. Melee (USA) (En,Ja) (v1.02).iso",
+    "dolphin_dir": "dolphin",
+    "ffmpeg": "ffmpeg\\ffmpeg.exe",
+    "resolution": "720p",
+    "widescreen": true,
+    "bitrateKbps": 16000,
+    "parallel_games": 1,
+    "remove_short": true,
+    "combine": true
+}
